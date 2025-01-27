@@ -101,18 +101,5 @@ public class App {
         }
     }
 }
-/*public static void runEjercicio() {
-        Set<Contacto> agenda = new TreeSet<>(new ContactoComparator());
 
-        agenda.add(new Contacto("Renato", "Yadaicela", "0994578194"));
-        agenda.add(new Contacto("Pablo", "Siranaiula", "0985471567"));
-        agenda.add(new Contacto("Jhon", "Tigre", "0936475122"));
-        agenda.add(new Contacto("Noemi", "Fernandez", "0987546121")); 
-        agenda.add(new Contacto("Ana", "Fernandez", "0942157412")); 
-
-        System.out.println("\n----- Ejercicio: Agenda de contactos -----");
-        for (Contacto contacto : agenda) {
-            System.out.println(contacto);
-        }
-    } */
    
